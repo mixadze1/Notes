@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Z6dXuOYCs1aOHfWwcxNpYwGy3NQFCQo1Pm6NbT2t1htjKlWYmHJBZFoYSPutYU8exTezIIMW1xA+qfYttv8nOg==",
+  "dgSpecHash": "pyLJfEnqktH+VJroOoBKEmmYfu+xgmFTiF+o5YlfAfJQYN4fggfcEcAK0ZRdN2i5/DRwqqPg6rlg3NVo1Q9RzQ==",
   "success": true,
   "projectFilePath": "D:\\Notes\\Notes.Persistence\\Notes.Persistence.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\mixad\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\mixad\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\mixad\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.2\\microsoft.data.sqlite.core.7.0.2.nupkg.sha512",
     "C:\\Users\\mixad\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.2\\microsoft.entityframeworkcore.7.0.2.nupkg.sha512",
     "C:\\Users\\mixad\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.2\\microsoft.entityframeworkcore.abstractions.7.0.2.nupkg.sha512",
