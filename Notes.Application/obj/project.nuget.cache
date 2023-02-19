@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "qrj/GGw9VqvphH8o57OGVNzli5+qW76NcH++F1xy9SaJpXoMmA9FnDf7/CVmVl7ToIl3bZmvflgBDXa8p2cWkw==",
+  "dgSpecHash": "b2jrvMn3ZeNdodanRZi2iAJBlprntqpMWp/o1TFc9FkxKFTSTcyFsUhLf/tXCxY+JqhTuhHyTDxCGXrh87qfrQ==",
   "success": true,
   "projectFilePath": "D:\\Notes\\Notes.Application\\Notes.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mixad\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\mixad\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
     "C:\\Users\\mixad\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\mixad\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "C:\\Users\\mixad\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\mixad\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.2\\microsoft.entityframeworkcore.7.0.2.nupkg.sha512",
     "C:\\Users\\mixad\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.2\\microsoft.entityframeworkcore.abstractions.7.0.2.nupkg.sha512",

@@ -1,0 +1,15 @@
+D:\Notes\Notes.Application\bin\Debug\net6.0\Notes.Application.deps.json
+D:\Notes\Notes.Application\bin\Debug\net6.0\Notes.Application.dll
+D:\Notes\Notes.Application\bin\Debug\net6.0\Notes.Application.pdb
+D:\Notes\Notes.Application\bin\Debug\net6.0\Notes.Domain.dll
+D:\Notes\Notes.Application\bin\Debug\net6.0\Notes.Domain.pdb
+D:\Notes\Notes.Application\obj\Debug\net6.0\Notes.Application.csproj.AssemblyReference.cache
+D:\Notes\Notes.Application\obj\Debug\net6.0\Notes.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Notes\Notes.Application\obj\Debug\net6.0\Notes.Application.AssemblyInfoInputs.cache
+D:\Notes\Notes.Application\obj\Debug\net6.0\Notes.Application.AssemblyInfo.cs
+D:\Notes\Notes.Application\obj\Debug\net6.0\Notes.Application.csproj.CoreCompileInputs.cache
+D:\Notes\Notes.Application\obj\Debug\net6.0\Notes.Application.csproj.CopyComplete
+D:\Notes\Notes.Application\obj\Debug\net6.0\Notes.Application.dll
+D:\Notes\Notes.Application\obj\Debug\net6.0\refint\Notes.Application.dll
+D:\Notes\Notes.Application\obj\Debug\net6.0\Notes.Application.pdb
+D:\Notes\Notes.Application\obj\Debug\net6.0\ref\Notes.Application.dll

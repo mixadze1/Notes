@@ -12,7 +12,7 @@ namespace Notes.Application.Notes.Queries
         private readonly INotesDbContext _dbContext;
         private readonly IMapper _mapper;
 
-        public GetNoteDetailsQueryHandler(INotesDbContext dbContext,, IMapper mapper)
+        public GetNoteDetailsQueryHandler(INotesDbContext dbContext, IMapper mapper)
         {
             _dbContext = dbContext; 
             _mapper = mapper;
