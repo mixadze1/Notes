@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "pyLJfEnqktH+VJroOoBKEmmYfu+xgmFTiF+o5YlfAfJQYN4fggfcEcAK0ZRdN2i5/DRwqqPg6rlg3NVo1Q9RzQ==",
+  "dgSpecHash": "T/KRObEgGlr8BIRjqaBYMb2fhOOTqYnt6AOAFz4/PjhTkW047nSWMf5piaFC/zFWZfCjEpyS5fjj/nFHVpOifA==",
   "success": true,
   "projectFilePath": "D:\\Notes\\Notes.Persistence\\Notes.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mixad\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\mixad\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\mixad\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\mixad\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\mixad\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.2\\microsoft.data.sqlite.core.7.0.2.nupkg.sha512",
     "C:\\Users\\mixad\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.2\\microsoft.entityframeworkcore.7.0.2.nupkg.sha512",
