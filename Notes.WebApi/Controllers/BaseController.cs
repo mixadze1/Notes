@@ -13,7 +13,7 @@ namespace Notes.WebApi.Controllers
             HttpContext.RequestServices.GetService<IMediator>();
 
         internal Guid userId => !User.Identity.IsAuthenticated 
-            ?Guid.Empty : Guid.Parse(
+            ? Guid.Empty : Guid.Parse(
                 User.FindFirst(ClaimTypes.NameIdentifier).Value);
     }
 }

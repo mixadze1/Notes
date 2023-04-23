@@ -38,7 +38,8 @@ namespace Notes.WebApi
             });
         }
 
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment enviroment)
+        public void Configure(IApplicationBuilder app,
+            IWebHostEnvironment enviroment)
         {
             if (enviroment.IsDevelopment())
             {

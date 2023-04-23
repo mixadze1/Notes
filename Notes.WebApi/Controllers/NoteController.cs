@@ -15,7 +15,8 @@ namespace Notes.WebApi.Controllers
     {
         private readonly IMapper _mapper;
 
-        public NoteController(IMapper mapper) => _mapper = mapper; 
+        public NoteController(IMapper mapper) => 
+            _mapper = mapper; 
 
         [HttpGet]
         public async Task<ActionResult<NoteListVm>> GetAll()
