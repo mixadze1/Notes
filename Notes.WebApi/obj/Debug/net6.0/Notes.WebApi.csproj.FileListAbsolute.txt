@@ -74,3 +74,5 @@ D:\Notes\Notes.WebApi\obj\Debug\net6.0\refint\Notes.WebApi.dll
 D:\Notes\Notes.WebApi\obj\Debug\net6.0\Notes.WebApi.pdb
 D:\Notes\Notes.WebApi\obj\Debug\net6.0\Notes.WebApi.genruntimeconfig.cache
 D:\Notes\Notes.WebApi\obj\Debug\net6.0\ref\Notes.WebApi.dll
+D:\Notes\Notes.WebApi\bin\Debug\net6.0\FluentValidation.dll
+D:\Notes\Notes.WebApi\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll

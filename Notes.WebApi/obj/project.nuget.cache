@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "gf96O3L+aZHERlik+3fGTh4aJd8xupBCQLJAncvtfSGyszcnMbMYIcVwX6YGa6HunLMDyWLPvV5gfU8dkoZ62w==",
+  "dgSpecHash": "LnE9G5LqGig6jL6JE/59FdKrEzrpeLEN6629ENyU/6rEIjng5nV1iU7V7NTx7W4uVvn9RUQlLW05GMml5F1PPQ==",
   "success": true,
   "projectFilePath": "D:\\Notes\\Notes.WebApi\\Notes.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mixad\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\mixad\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\mixad\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
+    "C:\\Users\\mixad\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.2\\fluentvalidation.dependencyinjectionextensions.11.5.2.nupkg.sha512",
     "C:\\Users\\mixad\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
     "C:\\Users\\mixad\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\mixad\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
